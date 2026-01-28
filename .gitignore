@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#datasets
+**.pt
+**.allx
+**.ally
+**.x
+**.y
+**.tx
+**.ty
+**.graph
+**.index
+
+#tensorflow logs
+**.tfevents**
